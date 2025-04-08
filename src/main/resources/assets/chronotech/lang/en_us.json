@@ -1,5 +1,4 @@
 {
-  "itemGroup.chronotech": "Example Mod Tab",
-  "block.chronotech.example_block": "Example Block",
-  "item.chronotech.example_item": "Example Item"
+  "item.chronotech.bismuth": "Bismuth",
+  "item.chronotech.raw_bismuth": "Raw Bismuth"
 }
